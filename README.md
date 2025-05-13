@@ -1,4 +1,4 @@
-
+![Cover](./Readme.jpg)
 # EF Core & ORMs - Notes
 
 ## Introduction
